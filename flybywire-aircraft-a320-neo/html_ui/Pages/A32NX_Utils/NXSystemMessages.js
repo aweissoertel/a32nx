@@ -92,6 +92,7 @@ const NXSystemMessages = {
     cancelAtisUpdate:       new TypeIMessage("CANCEL UPDATE BEFORE"),
     keyNotActive:           new TypeIMessage("KEY NOT ACTIVE"),
     latLonAbreviated:       new TypeIMessage("LAT/LON DISPL ABREVIATED"),
+    stepAboveMaxFl:         new TypeIMessage("STEP ABOVE MAX FL"),
 };
 
 const NXFictionalMessages = {
