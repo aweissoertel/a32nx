@@ -34,6 +34,7 @@
 1. [MCDU] Added formatter to improve text alignment and ease integration - @derl30n (Leon)
 1. [EFB] Fix default unit to match UI and other consumers - @tracernz (Mike)
 1. [MCDU] Added 4:3 aspect ratio compatibility to remote mcdu client - @tyler58546 (tyler58546)
+1. [EFB] Added pause at T/D function - @2hwk (2Cas#1022)
 
 ## 0.8.0
 
