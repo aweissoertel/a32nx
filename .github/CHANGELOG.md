@@ -35,6 +35,7 @@
 1. [EFB] Fix default unit to match UI and other consumers - @tracernz (Mike)
 1. [MCDU] Added 4:3 aspect ratio compatibility to remote mcdu client - @tyler58546 (tyler58546)
 1. [EFB] Added pause at T/D function - @2hwk (2Cas#1022)
+1. [FLIGHTMODEL] Improve flight handling characteristics, ground effect, and landing gear simulation - @donstim (donbikes#4084)
 
 ## 0.8.0
 
